@@ -66,7 +66,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-# Solicitar al usuario que ingrese una etiqueta única para todas las imágenes
+# ingrese una etiqueta única para todas las imágenes
 etiqueta = input("Ingrese una etiqueta para todas las imágenes capturadas: ")
 
 # Renombrar todas las imágenes con la etiqueta ingresada
